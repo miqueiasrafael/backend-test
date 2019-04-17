@@ -1,23 +1,14 @@
-# backend-test
-Projeto para avaliação técnica de candidatos à vaga de desenvolvimento Back-End
+# ASP.NET Core Web API Controller 
 
-## Requisitos:
+This app consists of the following projects:
 
-* Criar API com os métodos de CRUD para um cadastro de pessoas com os atributos a seguir:
+- **PBWebApi.Api.21**: An ASP.NET Core 2.1 project targeting .NET Core 2.1.
+- **PBWebApi.DataAccess**: A .NET Standard 2.0 class library serving as a data access tier for the 2 Web API projects.
 
-    Nome*,
-    Email*,
-    Telefone,
-    Endereço (Endereço completo)
-    
-    *Campos obrigatórios e demais validações de acordo com seu entendimento de negócio
-    
-* Incluir testes de unidade para o código
-* Persistir os dados em SQL Server ou MongoDB
-* Fazer o seed da base
+This Web API controller creation:
 
-* Utilizar:
-  - .NET Core
-  - Entity Framework, ADO.NET ou NHibernate
+For Paran� Bank 2019 by Miqu�ias Rafael 
 
-* Enviar o código desenvolvido como PR para este repositório.
+loading... updates!
+
+Tks
