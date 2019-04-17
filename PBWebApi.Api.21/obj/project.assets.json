@@ -11937,11 +11937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.Api.21\\PBWebApi.Api.21.csproj",
+      "projectUniqueName": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.Api.21\\PBWebApi.Api.21.csproj",
       "projectName": "PBWebApi.Api.21",
-      "projectPath": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.Api.21\\PBWebApi.Api.21.csproj",
+      "projectPath": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.Api.21\\PBWebApi.Api.21.csproj",
       "packagesPath": "C:\\Users\\Rafaelh3r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.Api.21\\obj\\",
+      "outputPath": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.Api.21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11960,8 +11960,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj"
+            "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj": {
+              "projectPath": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj"
             }
           }
         }

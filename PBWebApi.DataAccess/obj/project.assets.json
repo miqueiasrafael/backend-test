@@ -2439,11 +2439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj",
+      "projectUniqueName": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj",
       "projectName": "PBWebApi.DataAccess",
-      "projectPath": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj",
+      "projectPath": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.DataAccess\\PBWebApi.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Rafaelh3r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafaelh3r\\source\\repos\\PB_Api\\PBWebApi.DataAccess\\obj\\",
+      "outputPath": "C:\\_GIT\\pb-backend-test-miqueiasrafael\\PBWebApi.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
